@@ -1,0 +1,11 @@
+[{
+    "id": "1",
+    "name/first": {
+        "name/first": "Dan",
+        "name/last": "Jones"
+    },
+    "rating/0": {
+        "rating/0": "8",
+        "rating/1": "7"
+    }
+}][{"id":"1","name/first":{"name/first":"Dan","name/last":"Jones"},"rating/0":{"rating/0":"8","rating/1":"7","rating/2\r":"9\r"}}]
